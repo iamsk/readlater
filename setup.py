@@ -27,7 +27,7 @@ setup(
     install_requires=[
         'setuptools',
         'readability-api',
-        'ril'
+        'readitlater'
         ],
     entry_points="""
     [console_scripts]

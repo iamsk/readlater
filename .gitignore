@@ -1,0 +1,11 @@
+*.pyc
+*.pyo
+*.log
+develop-eggs/
+eggs/
+parts/
+bin/
+.installed.cfg
+.mr.developer.cfg
+src/readlater.egg-info/
+src/ril/
